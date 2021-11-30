@@ -1,0 +1,59 @@
+/* colors and font*/
+body {
+background-color: rgb(255, 204, 153);
+font-family: sans-serif;
+font-size: 18px;
+}
+ 
+h1 {
+color: rgb(0, 0, 255);
+font-family: sans-serif;
+font-size: 40px;
+}
+ 
+h2 {
+color: rgb(0, 255, 0);
+font-family: sans-serif;  
+font-weight: 900;
+font-size: 21px;
+}
+ 
+a {
+text-decoration: none;
+color: rgb(255, 0, 255);
+}
+ 
+ 
+ 
+ 
+.container {
+                width: 700px;
+    margin: 40px auto;
+ 
+}
+ 
+.card-white{
+                background-color: white;
+                padding: 40px;
+                box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+                border-radius: 4px;
+                margin: 20px 0px;
+                text-align: center;
+}
+ 
+.img-circle {
+                border-radius: 50%;
+}
+ 
+ 
+ 
+.list-inline {
+                list-style: none;
+                padding-left: 0px;
+}
+ 
+ 
+#intro p {
+                margin-bottom: 40px;
+ 
+}
